@@ -1,0 +1,48 @@
+C:\Users\alanb\Desktop\Lucas\Lucas\bin\Debug\net5.0\Lucas.exe
+C:\Users\alanb\Desktop\Lucas\Lucas\bin\Debug\net5.0\Lucas.deps.json
+C:\Users\alanb\Desktop\Lucas\Lucas\bin\Debug\net5.0\Lucas.runtimeconfig.json
+C:\Users\alanb\Desktop\Lucas\Lucas\bin\Debug\net5.0\Lucas.runtimeconfig.dev.json
+C:\Users\alanb\Desktop\Lucas\Lucas\bin\Debug\net5.0\Lucas.dll
+C:\Users\alanb\Desktop\Lucas\Lucas\bin\Debug\net5.0\ref\Lucas.dll
+C:\Users\alanb\Desktop\Lucas\Lucas\bin\Debug\net5.0\Lucas.pdb
+C:\Users\alanb\Desktop\Lucas\Lucas\obj\Debug\net5.0\Lucas.csproj.AssemblyReference.cache
+C:\Users\alanb\Desktop\Lucas\Lucas\obj\Debug\net5.0\Lucas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alanb\Desktop\Lucas\Lucas\obj\Debug\net5.0\Lucas.AssemblyInfoInputs.cache
+C:\Users\alanb\Desktop\Lucas\Lucas\obj\Debug\net5.0\Lucas.AssemblyInfo.cs
+C:\Users\alanb\Desktop\Lucas\Lucas\obj\Debug\net5.0\Lucas.csproj.CoreCompileInputs.cache
+C:\Users\alanb\Desktop\Lucas\Lucas\obj\Debug\net5.0\Lucas.dll
+C:\Users\alanb\Desktop\Lucas\Lucas\obj\Debug\net5.0\ref\Lucas.dll
+C:\Users\alanb\Desktop\Lucas\Lucas\obj\Debug\net5.0\Lucas.pdb
+C:\Users\alanb\Desktop\Lucas\Lucas\obj\Debug\net5.0\Lucas.genruntimeconfig.cache
+C:\Users\ljgso\OneDrive\Área de Trabalho\teste_LucasJuan\Lucas (5)\Lucas\Lucas\bin\Debug\net5.0\Lucas.exe
+C:\Users\ljgso\OneDrive\Área de Trabalho\teste_LucasJuan\Lucas (5)\Lucas\Lucas\bin\Debug\net5.0\Lucas.deps.json
+C:\Users\ljgso\OneDrive\Área de Trabalho\teste_LucasJuan\Lucas (5)\Lucas\Lucas\bin\Debug\net5.0\Lucas.runtimeconfig.json
+C:\Users\ljgso\OneDrive\Área de Trabalho\teste_LucasJuan\Lucas (5)\Lucas\Lucas\bin\Debug\net5.0\Lucas.runtimeconfig.dev.json
+C:\Users\ljgso\OneDrive\Área de Trabalho\teste_LucasJuan\Lucas (5)\Lucas\Lucas\bin\Debug\net5.0\Lucas.dll
+C:\Users\ljgso\OneDrive\Área de Trabalho\teste_LucasJuan\Lucas (5)\Lucas\Lucas\bin\Debug\net5.0\ref\Lucas.dll
+C:\Users\ljgso\OneDrive\Área de Trabalho\teste_LucasJuan\Lucas (5)\Lucas\Lucas\bin\Debug\net5.0\Lucas.pdb
+C:\Users\ljgso\OneDrive\Área de Trabalho\teste_LucasJuan\Lucas (5)\Lucas\Lucas\obj\Debug\net5.0\Lucas.csproj.AssemblyReference.cache
+C:\Users\ljgso\OneDrive\Área de Trabalho\teste_LucasJuan\Lucas (5)\Lucas\Lucas\obj\Debug\net5.0\Lucas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ljgso\OneDrive\Área de Trabalho\teste_LucasJuan\Lucas (5)\Lucas\Lucas\obj\Debug\net5.0\Lucas.AssemblyInfoInputs.cache
+C:\Users\ljgso\OneDrive\Área de Trabalho\teste_LucasJuan\Lucas (5)\Lucas\Lucas\obj\Debug\net5.0\Lucas.AssemblyInfo.cs
+C:\Users\ljgso\OneDrive\Área de Trabalho\teste_LucasJuan\Lucas (5)\Lucas\Lucas\obj\Debug\net5.0\Lucas.csproj.CoreCompileInputs.cache
+C:\Users\ljgso\OneDrive\Área de Trabalho\teste_LucasJuan\Lucas (5)\Lucas\Lucas\obj\Debug\net5.0\Lucas.dll
+C:\Users\ljgso\OneDrive\Área de Trabalho\teste_LucasJuan\Lucas (5)\Lucas\Lucas\obj\Debug\net5.0\ref\Lucas.dll
+C:\Users\ljgso\OneDrive\Área de Trabalho\teste_LucasJuan\Lucas (5)\Lucas\Lucas\obj\Debug\net5.0\Lucas.pdb
+C:\Users\ljgso\OneDrive\Área de Trabalho\teste_LucasJuan\Lucas (5)\Lucas\Lucas\obj\Debug\net5.0\Lucas.genruntimeconfig.cache
+C:\Users\ljgso\OneDrive\Área de Trabalho\teste_LucasJuan\Lucas (5)\Lucas_Juan\Lucas\bin\Debug\net5.0\Lucas.exe
+C:\Users\ljgso\OneDrive\Área de Trabalho\teste_LucasJuan\Lucas (5)\Lucas_Juan\Lucas\bin\Debug\net5.0\Lucas.deps.json
+C:\Users\ljgso\OneDrive\Área de Trabalho\teste_LucasJuan\Lucas (5)\Lucas_Juan\Lucas\bin\Debug\net5.0\Lucas.runtimeconfig.json
+C:\Users\ljgso\OneDrive\Área de Trabalho\teste_LucasJuan\Lucas (5)\Lucas_Juan\Lucas\bin\Debug\net5.0\Lucas.runtimeconfig.dev.json
+C:\Users\ljgso\OneDrive\Área de Trabalho\teste_LucasJuan\Lucas (5)\Lucas_Juan\Lucas\bin\Debug\net5.0\Lucas.dll
+C:\Users\ljgso\OneDrive\Área de Trabalho\teste_LucasJuan\Lucas (5)\Lucas_Juan\Lucas\bin\Debug\net5.0\ref\Lucas.dll
+C:\Users\ljgso\OneDrive\Área de Trabalho\teste_LucasJuan\Lucas (5)\Lucas_Juan\Lucas\bin\Debug\net5.0\Lucas.pdb
+C:\Users\ljgso\OneDrive\Área de Trabalho\teste_LucasJuan\Lucas (5)\Lucas_Juan\Lucas\obj\Debug\net5.0\Lucas.csproj.AssemblyReference.cache
+C:\Users\ljgso\OneDrive\Área de Trabalho\teste_LucasJuan\Lucas (5)\Lucas_Juan\Lucas\obj\Debug\net5.0\Lucas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ljgso\OneDrive\Área de Trabalho\teste_LucasJuan\Lucas (5)\Lucas_Juan\Lucas\obj\Debug\net5.0\Lucas.AssemblyInfoInputs.cache
+C:\Users\ljgso\OneDrive\Área de Trabalho\teste_LucasJuan\Lucas (5)\Lucas_Juan\Lucas\obj\Debug\net5.0\Lucas.AssemblyInfo.cs
+C:\Users\ljgso\OneDrive\Área de Trabalho\teste_LucasJuan\Lucas (5)\Lucas_Juan\Lucas\obj\Debug\net5.0\Lucas.csproj.CoreCompileInputs.cache
+C:\Users\ljgso\OneDrive\Área de Trabalho\teste_LucasJuan\Lucas (5)\Lucas_Juan\Lucas\obj\Debug\net5.0\Lucas.dll
+C:\Users\ljgso\OneDrive\Área de Trabalho\teste_LucasJuan\Lucas (5)\Lucas_Juan\Lucas\obj\Debug\net5.0\ref\Lucas.dll
+C:\Users\ljgso\OneDrive\Área de Trabalho\teste_LucasJuan\Lucas (5)\Lucas_Juan\Lucas\obj\Debug\net5.0\Lucas.pdb
+C:\Users\ljgso\OneDrive\Área de Trabalho\teste_LucasJuan\Lucas (5)\Lucas_Juan\Lucas\obj\Debug\net5.0\Lucas.genruntimeconfig.cache
